@@ -1,0 +1,14 @@
+2026-05-08 12:49:07,919 - INFO - Job started
+2026-05-08 12:49:07,919 - INFO - Config loaded and validated: seed=42, window=5, version=v1
+2026-05-08 12:49:07,930 - INFO - Loaded 10000 rows from data.csv
+2026-05-08 12:49:07,930 - INFO - Computing rolling mean with window 5
+2026-05-08 12:49:07,932 - INFO - Generating signals
+2026-05-08 12:49:07,932 - INFO - Metrics summary: rows_processed=10000, signal_rate=0.5009, latency_ms=13
+2026-05-08 12:49:07,932 - INFO - Job completed successfully
+2026-05-08 12:51:27,086 - INFO - Job started
+2026-05-08 12:51:27,086 - INFO - Config loaded and validated: seed=42, window=5, version=v1
+2026-05-08 12:51:27,092 - INFO - Loaded 10000 rows from data.csv
+2026-05-08 12:51:27,092 - INFO - Computing rolling mean with window 5
+2026-05-08 12:51:27,092 - INFO - Generating signals
+2026-05-08 12:51:27,092 - INFO - Metrics summary: rows_processed=10000, signal_rate=0.5009, latency_ms=7
+2026-05-08 12:51:27,092 - INFO - Job completed successfully
