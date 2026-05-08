@@ -123,9 +123,3 @@ Logs are captured with timestamps and severity levels in `run.log`. Key events l
 - **PyYAML**: YAML configuration parsing.
 - **Docker**: Container orchestration.
 
-## 15. Author
-**Prithvi Nawadiya**
-MLOps Engineering Task
-
----
-*This project was developed as part of a Technical Assessment for ML/MLOps engineering.*
